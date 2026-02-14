@@ -165,7 +165,6 @@ Chrome [launch arguments](https://developer.chrome.com/docs/extensions/reference
 # SMS confirmations
 * [SmsActivate](https://sms-activate.io/?ref=8536388) - min top up ~$2.5, high commissions
 * [VakSms](https://vak-sms.com/3b4308f6-b7ff-4085-a095-5e63f650fa7f) - not every country is available
-* [SmsHub](https://smshub.org/) - looks like the cheapest but has a lot of low-quality numbers(at least in Thailand), sometimes specifying an operator helps
 * [GrizzlySms](https://grizzlysms.com/registration?r=539140)
 * [5Sim](https://5sim.net/) - expensive for some countries but has activation rate data available (Thailand for example)
 * [OnlineSim](https://onlinesim.io/?bref=880810) - very expensive
@@ -225,5 +224,6 @@ Worker is another sneaky way to detect real browser data, as you can't modify ob
 * User agent ( `navigator.userAgent` )
 * Hardware Concurrency ( `navigator.hardwareConcurrency` )
 * [GPU data](https://developer.mozilla.org/en-US/docs/Web/API/WorkerNavigator/gpu) (except Linux & Firefox upd 30.01.2024)
+
 
 
