@@ -19,7 +19,6 @@ If you're working on anything related to anti-detection, feel free to join — o
 # Anti-detect browsers
 * [Gologin](https://go.gologin.com/secretbonus-IFOGFRB) - 3 free for 1 month, $24 for 100 profiles, no unlimited plan, free proxies 🙄
 * [Undetectable](https://undetectable.io/?r=AXCFe) - 5 cloud profiles free, $49 for unlimited local with 25 "configs", 1 additional config $1 (API + driver automation) 🙄
-* [NSTBrowser](https://app.nstbrowser.io/r/NZ0daY) - 10 profiles open/day free, $29(299) for 3000 open profiles per day, quite new on the market 😊
 * [Multilogin](https://multilogin.com/#a_aid=secretbonus3) - starts from €74 for 100 profiles  
 * [Incogniton](https://incogniton.com/aff/620515/) - 10 free for 2 months then 3 only, $29.99/Month for 50 🙄
 * [AdsPower](https://share.adspower.net/YyHH9v) - 2 profiles free, $5.4 for 10 profiles, no unlimited plan 🙄
@@ -38,6 +37,7 @@ If you're working on anything related to anti-detection, feel free to join — o
 * [Wade](https://wade.is/) - from $30/month, automation from $160 🙄
 * [Camoufox](https://camoufox.com/) - launched via Python, based on Firefox 😊
 * [BitBrowser](https://www.bitbrowser.net/) - 10 free, 50/$9, antidetect from Hong Kong 😊
+* [NSTBrowser](https://app.nstbrowser.io/r/NZ0daY) - 30 profiles open/day free, $29(299) for 3000 open profiles per day, quite new on the market 😊
 
 Not checked yet:
 * [HideMyAcc](https://go.hidemyacc.com/github) - 7 days free, $5 for 5 profiles
