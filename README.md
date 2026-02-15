@@ -163,13 +163,13 @@ Chrome [launch arguments](https://developer.chrome.com/docs/extensions/reference
 * [List of everything related to Captchas](https://github.com/TheGP/Everything-About-Captchas/)
 
 # SMS confirmations
+* [SmsBower](https://smsbower.com/registration?ref=110541) - min top up $2.86, low commission
+* [OnlineSim](https://onlinesim.io/?bref=880810) - very expensive
 * [VakSms](https://vak-sms.com/3b4308f6-b7ff-4085-a095-5e63f650fa7f) - not every country is available
 * [GrizzlySms](https://grizzlysms.com/registration?r=539140)
-* [5Sim](https://5sim.net/) - expensive for some countries but has activation rate data available (Thailand for example)
-* [OnlineSim](https://onlinesim.io/?bref=880810) - very expensive
-* [SmsBower](https://smsbower.com/registration?ref=110541) - min top up $2.86, low commission
 * [365sms](https://365sms.vip/?ref=626004) - top up from $1
 * [Cyberyozh](https://app.cyberyozh.com/reception-sms/residential/) - virtual + residential, expensive
+* [5Sim](https://5sim.net/) - expensive for some countries but has activation rate data available (Thailand for example)
 
 # Proxies
 [List of proxy providers](https://github.com/TheGP/proxy-providers-list) - 25+ proxy providers with price comparison
